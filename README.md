@@ -11,7 +11,7 @@ This is my first java project and was built using Java and Jframes
     1.Java
     2.JavaFrames
 
-    this project contains two sections which are,
+this project contains two sections which are,
 #### Compressor:
     * Does data compression of given file.
     * Reduces no of bits, needed to represent a data.
