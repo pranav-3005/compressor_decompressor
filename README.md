@@ -39,6 +39,14 @@ This is my first java project and was built using Java and Jframes
     7 - Process finished, these files are all stored in same location only.
 ## Screenshots
 
+![homepage](https://github.com/pranav-3005/compressor_decompressor/assets/113624768/4f40ccf4-ab1e-4470-a208-489e4074a566)
+
+![compress](https://github.com/pranav-3005/compressor_decompressor/assets/113624768/4e8798e1-20a9-4d21-afa8-f518e256662f)
+
+![decompress](https://github.com/pranav-3005/compressor_decompressor/assets/113624768/1b3cb019-e179-4911-8577-11373d059520)
+
+
+
 
 
 
